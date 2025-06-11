@@ -14,8 +14,8 @@ int main()
     }
     for (i = 0; i < n; i++) {
         for (j = 0; j < graph[i].size(); j++) {
-            if (graph[i][j] < i) { 
-                cout << i << " - tugun " << graph[i][j] << " - tugun bilan bog'langan (o'zidan kichik)"<< endl;
+            if (graph[i][j] > i) { 
+                cout << i << " - tugun " << graph[i][j] << " - tugun bilan bog'langan (o'zidan katta)"<< endl;
             }
         }
     }
