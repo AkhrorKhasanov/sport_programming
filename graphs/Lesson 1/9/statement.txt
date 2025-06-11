@@ -1,0 +1,2 @@
+Sizga n ta tugundan iborat (tugunlar 0 dan n−1 gacha raqamlangan) va m ta
+yo‘naltirilmagan qirralarga ega graf beriladi. a va b tugunlari orasida qirra boryo‘qligini aniqlovchi dastur yozing.
