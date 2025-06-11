@@ -24,7 +24,7 @@
 //     return 0;
 // }
 
-
+// Yo'naltirilmagan uchun
 #include <iostream>
 #include <vector>
 using namespace std; 
