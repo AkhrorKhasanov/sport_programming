@@ -1,0 +1,3 @@
+Sizga n ta tugundan iborat (tugunlar 0 dan n−1 gacha raqamlangan) va m ta
+yo‘naltirilgan qirralarga ega graf beriladi. Har bir tugundan nechta qirra
+chiqqanligini aniqlovchi dastur tuzing.
