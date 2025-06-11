@@ -1,0 +1,3 @@
+Sizga n ta tugundan iborat (tugunlar 0 dan n−1 gacha raqamlangan) va m ta
+yo‘naltirilmagan qirralarga ega graf beriladi. Grafdagi umumiy qirralar sonini
+hisoblang (yo‘naltirilmagan graf uchun – qirralar ikki marta sanalmasin).
